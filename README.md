@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋  me llamo David aunque me gusta que me digan deivid (aveces) me gustan los deportes me considero aficionados a ellos en esencial al futbol el tenis y la F1
+
+1. Sueño con ser un gran ingeniero
+2. Me gusta mucho progrmar
+3. Visca Barca 
 
 <!--
 **DavidXx6/DavidXx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
